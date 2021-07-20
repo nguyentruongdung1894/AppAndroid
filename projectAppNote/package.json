@@ -11,7 +11,7 @@
     "random-string": "^0.2.0",
     "react": "16.8.3",
     "react-moment": "^0.9.2",
-    "react-native": "0.59.9",
+    "react-native": "0.62.3",
     "react-native-action-button": "^2.8.5",
     "react-native-button": "^2.4.0",
     "react-native-circle-button": "^1.0.9",
